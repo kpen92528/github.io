@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ricaa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url:https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
